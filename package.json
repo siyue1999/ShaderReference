@@ -1,12 +1,13 @@
 {
-    "name": "com.oneway.shaderreference",
+    "name": "com.oneway.shader_reference",
     "version": "0.0.1",
-    "displayName": "Shader参考大全",
+    "displayName": "Shader_reference",
     "description": "This is a shaderReference",
     "unity": "2019.1",
     "keywords": [
         "Shader"
     ],
+
     "author": {
         "name": "27Oneway",
         "email": "422665953@qq.com"
